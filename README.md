@@ -1,4 +1,3 @@
---
 # Introdução
 Este repositório contém o guia de laboratórios para o curso "Fundamentos de IA" da Microsoft Learn. O objetivo do curso é fornecer uma introdução prática à inteligência artificial (IA), cobrindo tópicos como:
 
